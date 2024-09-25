@@ -1,0 +1,206 @@
+[
+    {
+        "id": 10,
+        "name": "Peter Benton",
+        "mail": "pbenton@example.org",
+        "dtContractStart": "2001-10-02T00:00:00",
+        "dtContractEnd": "2024-05-13T00:00:00",
+        "rolePrincipal": {
+            "id": 22,
+            "name": "Administrateur UK / ES",
+            "url": "https://reflect2-sandbox.ilucca-demo.net/api/v3/roles/22"
+        },
+        "department": {
+            "id": 11,
+            "name": "Secrétariat",
+            "url": "https://reflect2-sandbox.ilucca-demo.net/api/v3/departments/11"
+        }
+    },
+    {
+        "id": 14,
+        "name": "Peter Bowen",
+        "mail": "pbowen@example.org",
+        "dtContractStart": "2001-09-24T00:00:00",
+        "dtContractEnd": "2023-11-17T00:00:00",
+        "rolePrincipal": {
+            "id": 4,
+            "name": "Utilisateur",
+            "url": "https://reflect2-sandbox.ilucca-demo.net/api/v3/roles/4"
+        },
+        "department": {
+            "id": 9,
+            "name": "Help desk",
+            "url": "https://reflect2-sandbox.ilucca-demo.net/api/v3/departments/9"
+        }
+    },
+    {
+        "id": 24,
+        "name": "Pascal Roux",
+        "mail": "pdhorne@example.org",
+        "dtContractStart": "2009-12-03T00:00:00",
+        "dtContractEnd": "2019-10-23T00:00:00",
+        "rolePrincipal": {
+            "id": 4,
+            "name": "Utilisateur",
+            "url": "https://reflect2-sandbox.ilucca-demo.net/api/v3/roles/4"
+        },
+        "department": {
+            "id": 7,
+            "name": "Production",
+            "url": "https://reflect2-sandbox.ilucca-demo.net/api/v3/departments/7"
+        }
+    },
+    {
+        "id": 34,
+        "name": "Agathe Gourdon",
+        "mail": "agourdon@example.org",
+        "dtContractStart": "2016-05-15T00:00:00",
+        "dtContractEnd": "2023-12-29T00:00:00",
+        "rolePrincipal": {
+            "id": 4,
+            "name": "Utilisateur",
+            "url": "https://reflect2-sandbox.ilucca-demo.net/api/v3/roles/4"
+        },
+        "department": {
+            "id": 7,
+            "name": "Production",
+            "url": "https://reflect2-sandbox.ilucca-demo.net/api/v3/departments/7"
+        }
+    },
+    {
+        "id": 37,
+        "name": "Christiane Girard",
+        "mail": "cimbert@example.org",
+        "dtContractStart": "2010-01-01T00:00:00",
+        "dtContractEnd": "2019-10-23T00:00:00",
+        "rolePrincipal": {
+            "id": 4,
+            "name": "Utilisateur",
+            "url": "https://reflect2-sandbox.ilucca-demo.net/api/v3/roles/4"
+        },
+        "department": {
+            "id": 6,
+            "name": "SAV",
+            "url": "https://reflect2-sandbox.ilucca-demo.net/api/v3/departments/6"
+        }
+    },
+    {
+        "id": 38,
+        "name": "Alain Jacotot",
+        "mail": "no-reply@lucca.fr",
+        "dtContractStart": "1999-07-19T00:00:00",
+        "dtContractEnd": "2016-06-30T00:00:00",
+        "rolePrincipal": {
+            "id": 4,
+            "name": "Utilisateur",
+            "url": "https://reflect2-sandbox.ilucca-demo.net/api/v3/roles/4"
+        },
+        "department": {
+            "id": 6,
+            "name": "SAV",
+            "url": "https://reflect2-sandbox.ilucca-demo.net/api/v3/departments/6"
+        }
+    },
+    {
+        "id": 43,
+        "name": "Jules Richard",
+        "mail": "jrichard@example.org",
+        "dtContractStart": "1999-07-19T00:00:00",
+        "dtContractEnd": "2023-11-20T00:00:00",
+        "rolePrincipal": {
+            "id": 2,
+            "name": "Administrateur FR",
+            "url": "https://reflect2-sandbox.ilucca-demo.net/api/v3/roles/2"
+        },
+        "department": {
+            "id": 6,
+            "name": "SAV",
+            "url": "https://reflect2-sandbox.ilucca-demo.net/api/v3/departments/6"
+        }
+    },
+    {
+        "id": 51,
+        "name": "Manuel Rodríguez",
+        "mail": "mrodriguez@lucca.es",
+        "dtContractStart": "2016-09-09T00:00:00",
+        "dtContractEnd": "2021-03-21T00:00:00",
+        "rolePrincipal": {
+            "id": 3,
+            "name": "Manager",
+            "url": "https://reflect2-sandbox.ilucca-demo.net/api/v3/roles/3"
+        },
+        "department": {
+            "id": 27,
+            "name": "I+D",
+            "url": "https://reflect2-sandbox.ilucca-demo.net/api/v3/departments/27"
+        }
+    },
+    {
+        "id": 69,
+        "name": "Emiliano Elcaldo",
+        "mail": "ealcaldo@example.es",
+        "dtContractStart": "2005-01-21T00:00:00",
+        "dtContractEnd": "2023-10-31T00:00:00",
+        "rolePrincipal": {
+            "id": 4,
+            "name": "Utilisateur",
+            "url": "https://reflect2-sandbox.ilucca-demo.net/api/v3/roles/4"
+        },
+        "department": {
+            "id": 26,
+            "name": "Producción",
+            "url": "https://reflect2-sandbox.ilucca-demo.net/api/v3/departments/26"
+        }
+    },
+    {
+        "id": 72,
+        "name": "Martina Cantor",
+        "mail": "mcantor@lucca.es",
+        "dtContractStart": "2006-09-08T00:00:00",
+        "dtContractEnd": "2020-08-21T00:00:00",
+        "rolePrincipal": {
+            "id": 4,
+            "name": "Utilisateur",
+            "url": "https://reflect2-sandbox.ilucca-demo.net/api/v3/roles/4"
+        },
+        "department": {
+            "id": 21,
+            "name": "Contabilidad",
+            "url": "https://reflect2-sandbox.ilucca-demo.net/api/v3/departments/21"
+        }
+    },
+    {
+        "id": 86,
+        "name": "Diego Garza",
+        "mail": "dgarza@lucca.es",
+        "dtContractStart": "2016-01-14T00:00:00",
+        "dtContractEnd": "2020-09-30T00:00:00",
+        "rolePrincipal": {
+            "id": 4,
+            "name": "Utilisateur",
+            "url": "https://reflect2-sandbox.ilucca-demo.net/api/v3/roles/4"
+        },
+        "department": {
+            "id": 27,
+            "name": "I+D",
+            "url": "https://reflect2-sandbox.ilucca-demo.net/api/v3/departments/27"
+        }
+    },
+    {
+        "id": 89,
+        "name": "Julie Bateau",
+        "mail": "jbateau@example.org",
+        "dtContractStart": "2023-10-02T00:00:00",
+        "dtContractEnd": "2050-03-31T00:00:00",
+        "rolePrincipal": {
+            "id": 4,
+            "name": "Utilisateur",
+            "url": "https://reflect2-sandbox.ilucca-demo.net/api/v3/roles/4"
+        },
+        "department": {
+            "id": 11,
+            "name": "Secrétariat",
+            "url": "https://reflect2-sandbox.ilucca-demo.net/api/v3/departments/11"
+        }
+    }
+]
